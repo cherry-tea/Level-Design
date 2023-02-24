@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/cherrytea/Desktop/GameProj51/Content/Maps/Map_1.umap",
+				"D:/SideProjects/GameProj51/Content/Maps/Map_1.umap",
+				"D:/SideProjects/GameProj51/Content/Blueprints/BP_Coins.uasset",
+				"D:/SideProjects/GameProj51/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/SideProjects/GameProj51/Content/Blueprints/BP_ExplosionEnemy.uasset",
+				"D:/SideProjects/GameProj51/Content/Blueprints/BP_ExplosionCube.uasset",
+				"D:/SideProjects/GameProj51/Content/Blueprints/BP_ChaseEnemy.uasset",
+				"D:/SideProjects/GameProj51/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"D:/SideProjects/GameProj51/Content/Blueprints/BP_Gate_CoinsOpen.uasset",
+				"D:/SideProjects/GameProj51/Content/Blueprints/BP_LearningKit_PlayerCharacter.uasset",
+				"D:/SideProjects/GameProj51/Content/Blueprints/BP_MortarEnemy.uasset",
+				"D:/SideProjects/GameProj51/Content/Blueprints/W_UI.uasset",
+				"D:/SideProjects/GameProj51/Content/LearningKit_Games/Assets/Props/PuzzlePieces/PuzzleCube_A/Material/MI_PuzzleCube_B.uasset",
+				"D:/SideProjects/GameProj51/Content/Blueprints/BP_TargetRole.uasset",
+				"D:/SideProjects/GameProj51/Content/Platformer/Textures/Pl_plastic_n.uasset",
+				"D:/SideProjects/GameProj51/Content/Platformer/Textures/Pl_plastic_r.uasset",
+				"D:/SideProjects/GameProj51/Content/Platformer/Meshes/Pl_Coin_01.uasset",
+				"D:/SideProjects/GameProj51/Content/Platformer/Materials/M_Metal_Black_Parent.uasset",
+				"D:/SideProjects/GameProj51/Content/Platformer/Materials/M_Metal_Gold_Instance.uasset"
+			]
+		}
+	]
+}
